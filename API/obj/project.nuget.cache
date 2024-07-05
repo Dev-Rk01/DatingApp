@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gxfsr+okq7wfdOXBKJPVmkQXuvtVeylbOhnWqMndsnvYnv3gyyo4DoTmc6LZCqs9k/oDAVdIU6Cz0Mq4LkZkxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IotasolLaptop\\Desktop\\ASP.NET Core API and Angular\\DatingApp\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\IotasolLaptop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
